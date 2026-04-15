@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbidHasanRafi/WebOS-8266/main/WebOS-Cover.jpg" alt="WebOS Cover" width="100%">
+  <img src="https://raw.githubusercontent.com/AbidHasanRafi/WebOS-8266/main/WebOS-Cover.jpg" width="100%">
 </p>
 
 <h1 align="center">WebOS-8266</h1>
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge">
-  </a>
-  <a href="https://github.com/AbidHasanRafi/WebOS-8266/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge">
-  </a>
+  <img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge">
 </p>
 
 WebOS-8266 is a browser-based desktop operating system for the ESP8266. It serves a full web UI directly from the microcontroller and provides a desktop-style experience for controlling GPIO, managing files, monitoring system state, connecting to Wi-Fi networks, scheduling automation tasks, and using a built-in terminal.
