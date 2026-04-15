@@ -142,4 +142,4 @@ This repository currently contains a single self-contained Arduino sketch. The c
 
 ## License
 
-Add your preferred license here if you plan to publish or redistribute the project.
+MIT License.
